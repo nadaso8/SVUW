@@ -1,2 +1,2 @@
-# sxx_brace
+# SVUW
 A library for array style programming in rust. 
